@@ -8,15 +8,15 @@
   },
   "DISCORD_DESC": "Komm und sprich mit uns auf Discord!",
   "ERRORS": {
-    "PASSWORD_REQ": "Das Passwort muss mindestens 8 Zeichen lang sein und mindestens eine Zahl enthalten",
-    "USERNAME_LENGTH": "Der Nutzername muss mindestens 4 Zeichen lang sein",
+    "PASSWORD_REQ": "Dein Passwort muss mindestens 8 Zeichen enthalten, davon mindestens eine Zahl!",
+    "USERNAME_LENGTH": "Dein Nutzername muss mindestens 4 Zeichen enthalten",
     "WRONG_CONF_PASSWD": "Das Passwort muss identisch sein",
     "WRONG_EMAIL": "Ungültige E-mail"
   },
   "FORMS": {
     "ACC_ID": "Account ID",
     "AUTH": {
-      "NAME": "Rang",
+      "NAME": "Authorität",
       "USER": "Spieler",
       "GM": "Game Master",
       "ADMIN": "Administrator"
@@ -31,7 +31,7 @@
     "TOS": "Ich akzeptiere die Nutzungsbedingungen",
     "USERNAME": "Benutzername"
   },
-  "INFO": "NosWings ist ein non-profit Projekt von IT Studenten und gehört nicht zu GameForge oder Entwell oder wird von diesen unterstützt.",
+  "INFO": "NosWings ist ein internationaler Privat Server, welcher von IT-Studenten ohne Absichten der Geldeinnahme erstellt wurde. Er steht in keinerlei Verbindung zur Entwell, und wird daher auch nicht von diesen unterstützt.",
   "LINKS": {
     "DOWNLOAD": "Download",
     "DISCLAIMER": "Haftungsausschluss",
